@@ -10,16 +10,39 @@ Our system will consist of 5 stages: Data Preprocessing (Data cleaning, transfor
 
 We built this project with the purpose of analyzing the cause and effect of COVID-19. It would help to state proper facts and relations and removing any fake relations prevailing in the society.
 
+
+
 The dataset contains several parameters which were recorder based on the patients identified at different point of time. The parameters included are :
+
+
 •	Reporting date – date of patient identified 
+
+
 •	Location – location of patient 
+
+
 •	Country – country in which patient is identified
+
+
 •	Gender – gender of patient (Male-1, Female-0)
+
+
 •	Age – age of patient
+
+
 •	Visiting Wuhan – have the patient visited Wuhan in recent time
+
+
 •	From Wuhan – is the patient from Wuhan
+
+
 •	Death – does the patient died because of Covid-19 (0 or 1)
+
+
 •	Recovered – does the patient recovered from Covid-19 (0 or 1)
+
+
 Dataset -  https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
+
 
 This project is also submitted at this Kaggle kernel - https://www.kaggle.com/gurkanwalkang/covid-19-worldwide-analysis-and-prediction
