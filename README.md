@@ -1,5 +1,5 @@
 # COVID-19-Worldwide-Analysis-and-Prediction
-We’ve made a project “COVID-19 Worldwide Analysis and Prediction” in which we try to analyze the causes/effects of the recent pandemic that is Coronavirus (COVID-19). We've also trained a machine learning model on the dataset that predicts the death or recovery of a patient based on certain parameters.
+A project on “COVID-19 Worldwide Analysis and Prediction” to analyze the causes and effects of the global pandemic of COVID-19. A machine learning model has been trained on the dataset that predicts the death or recovery of a patient based on certain parameters.
 
 
 Dataset has been used that consists of various attributes. Using these attributes, we try to find correlations so that proper analysis of the situation can be made. We have used Python programming language and various in-built libraries of python for the purpose of Data Mining and Analysis. 
