@@ -42,7 +42,7 @@ The dataset contains several parameters which were recorder based on the patient
 •	Recovered – does the patient recovered from Covid-19 (0 or 1)
 
 
-Dataset - The dataset used in this notebok (Covid-19_dataset.csv) is same as the COVID19_line_list_data.csv dataset taken from https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset, with the only difference that in our dataset death and recovered columns contains values in the form of 0 or 1 and not in form of dates as in the later dataset.
+Dataset - The dataset used in this notebook (Covid-19_dataset.csv) is same as the COVID19_line_list_data.csv dataset taken from https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset, with the only difference that in our dataset death and recovered columns contains values in the form of 0 or 1 and not in form of dates as in the later dataset.
 
 
 This project is also submitted at this Kaggle kernel - https://www.kaggle.com/gurkanwalkang/covid-19-worldwide-analysis-and-prediction
