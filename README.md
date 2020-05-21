@@ -12,7 +12,7 @@ We built this project with the purpose of analyzing the cause and effect of COVI
 
 
 
-The dataset contains several parameters which were recorder based on the patients identified at different point of time. The parameters included are :
+The dataset contains several parameters which were recorded based on the patients identified at different point of time. The parameters included are :
 
 
 •	Reporting date – date of patient identified 
